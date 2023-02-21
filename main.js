@@ -45,3 +45,4 @@ function stockTotal(total) {
         return false;
     }
 }
+
